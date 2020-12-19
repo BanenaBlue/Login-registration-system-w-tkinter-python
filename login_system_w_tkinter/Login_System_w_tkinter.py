@@ -1,3 +1,5 @@
+#This was my first project after I learned tkinter. I know it sucks lmao.
+
 #setup
 from tkinter import *
 import tkinter.messagebox
