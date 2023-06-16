@@ -1,5 +1,3 @@
-#This was my first project after I learned tkinter. I know it sucks lmao.
-#Basically there's a simple ui that asks you to register and then the credentials, and the script sends them to a text file that stores them. When you login, it loops through all the usernames and the passwords and controls if there's a compatible usename and then checks if the word after it it's the compatible password. I know there was a simplier method to do it, but that's the first thing that popped up in my mind. 
 
 #setup
 from tkinter import *
